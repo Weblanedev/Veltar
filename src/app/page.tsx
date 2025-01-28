@@ -11,6 +11,7 @@ const Home = () => {
         <WrapperStyleOne>
           <main>
             <HomeMain />
+            {/* note */}
             {/* <ProductModal /> */}
           </main>
         </WrapperStyleOne>
