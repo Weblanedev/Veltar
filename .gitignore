@@ -10,7 +10,7 @@ test-code.tsx
 /coverage
 
 # next.js
-/.next/
+# /.next/
 /out/
 
 # production
